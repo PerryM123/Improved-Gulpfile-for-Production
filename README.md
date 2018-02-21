@@ -37,5 +37,6 @@ gulp release-time
 * browser-sync: run browsersync allowing for auto-broswer-refreshing
 * release-time: Prepare production files in the dist folder
 
+# Please Note
 
-
+Be sure to change the directories to fit your project
